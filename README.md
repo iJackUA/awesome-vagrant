@@ -25,28 +25,28 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Provisioning
 
-* [All available build in provisioning providers](https://docs.vagrantup.com/v2/provisioning/index.html) - official doc
-* [Vaprobash](http://fideloper.github.io/Vaprobash/index.html) - Vagrant Provisioning Bash Scripts
+* [All available build in provisioning providers](https://docs.vagrantup.com/v2/provisioning/index.html) - official doc.
+* [Vaprobash](http://fideloper.github.io/Vaprobash/index.html) - Vagrant Provisioning Bash Scripts.
 
 
 ## Notable plugins
 
 *You can install these modules by this command `vagrant plugin install MODULE-NAME`*
 
-* [List of available Vagrant plugins from GitHub wiki](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins)
-* [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version)
-* [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system
+* [List of available Vagrant plugins from GitHub wiki](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins).
+* [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version).
+* [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
 * [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier) - share a common package (apt-get, npm, etc.) cache among similiar VM instances.
 * [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
-* [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM
-* [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack)
+* [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
+* [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
 
 
 ## Helpers / Tools
 
 * [Packer](http://www.packer.io/) - a tool for creating identical machine images for multiple platforms from a single source configuration. For fast infrastructure deployment with multi-provider portability.
 * [Veewee](https://github.com/jedi4ever/veewee) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
-* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation
+* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation.
 
 
 ## Web services
@@ -69,21 +69,21 @@ for any IP address.
 
 ## Tutorials
 
-* [Getting Started With Vagrant](http://www.thisprogrammingthing.com/2013/getting-started-with-vagrant/) by This Programming Thing
+* [Getting Started With Vagrant](http://www.thisprogrammingthing.com/2013/getting-started-with-vagrant/) by This Programming Thing.
 * [Getting started with Vagrant - automated dev servers deploy and provisioning.](http://stdout.in/en/post/getting_started_with_vagrant_automated_dev_servers_deploy_and_provisioning)
 * [Working with Advanced Vagrant features in PhpStorm.](http://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm)
-* [Sharing Your Virtual Machine on the Web with Vagrant Share](http://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share)
+* [Sharing Your Virtual Machine on the Web with Vagrant Share](http://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share).
 
 ## Books
 
 * [Vagrant: Up and Running](http://www.amazon.com/gp/product/1449335837) by Mitchell Hashimoto.
-* [Vagrant CookBook](https://leanpub.com/vagrantcookbook) by Erika Heidi
+* [Vagrant CookBook](https://leanpub.com/vagrantcookbook) by Erika Heidi.
 
 ## Popular readymade environments
 
 * [Vagrantpress](http://vagrantpress.org/) - development enviroment for creating and modifying WordPress sites.
-* [Joomla-Vagrant](https://github.com/joomlatools/joomla-vagrant)
+* [Joomla-Vagrant](https://github.com/joomlatools/joomla-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
-* [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground
+* [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
 * [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
-* [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible)
+* [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
