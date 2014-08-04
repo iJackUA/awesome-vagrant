@@ -16,7 +16,7 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 *Where to find OS boxes ?*
 
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
-* [Vagrant Cloud](https://vagrantcloud.com/discover/featured) - see [above](#official-resources)
+* [Vagrant Cloud](https://vagrantcloud.com/discover/featured) - see [above](#official-resources).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
 * [Baseboxes from Opscode](https://github.com/opscode/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
