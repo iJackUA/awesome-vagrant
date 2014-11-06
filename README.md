@@ -48,6 +48,9 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 * [Veewee](https://github.com/jedi4ever/veewee) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
 * [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation.
 
+## Desktop tools
+
+* [Vagrant Manager](http://vagrantmanager.com/) for OS X.
 
 ## Web services
 
