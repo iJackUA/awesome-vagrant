@@ -91,7 +91,9 @@ for any IP address.
 * [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
 * [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 * [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
-
+* [Laravel Homestead](http://laravel.com/docs/homestead) - Official Vagrant Box for Laravel development, based on [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/), PHP 5.6, Nginx, and multiple database platforms.
+* [Laravel Vagrant](https://github.com/TimothyDJones/laravel-precise32-php5.4) - Personal Vagrant Box for [Laravel 4.x](http://laravel.com/) development using [PHP 5.4, 5.5, or 5.6](https://deb.sury.org/pages/packages.html).
+* [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/).
 
 ## License
 
