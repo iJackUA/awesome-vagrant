@@ -10,6 +10,7 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 * [Vagrant site](http://www.vagrantup.com/) - installation instruction, official manuals and docs.
 * [GitHub repo](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
 * [Vagrant Cloud](https://vagrantcloud.com/) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
+* [Otto Project](https://ottoproject.io/) - "The Successor to Vagrant". Detects your application type and builds a development environment tailored specifically for that application, with zero or minimal configuration.
 
 
 ## Boxes
