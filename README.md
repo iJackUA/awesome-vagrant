@@ -38,7 +38,7 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 * [List of available Vagrant plugins from GitHub wiki](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins).
 * [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version).
 * [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
-* [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier) - share a common package (apt-get, npm, etc.) cache among similiar VM instances.
+* [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
 * [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
 * [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
 * [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
@@ -60,7 +60,7 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 * [Phansible](http://phansible.com/) - provides an easy to use interface that helps you generate Ansible Playbooks for PHP based projects.
 * [PuPHPet](https://puphpet.com/) - a simple GUI to set up virtual machines for <s>PHP</s> Web development.
-* [Protobox](http://getprotobox.com/) - PuPHPet analog, but uses own installer with YAML configuration format to controls everything that is installed on the virtual machine.
+* [Protobox](http://getprotobox.com/) - PuPHPet analog, but uses own installer with YAML configuration format to control everything that is installed on the virtual machine.
 * [Rove](http://rove.io/) - a service that allows you to pregenerate typical Vagrant builds.
 
 ## Proxy services
@@ -86,7 +86,7 @@ for any IP address.
 
 ## Popular readymade environments
 
-* [Vagrantpress](http://vagrantpress.org/) - development enviroment for creating and modifying WordPress sites.
+* [Vagrantpress](http://vagrantpress.org/) - development environment for creating and modifying WordPress sites.
 * [Joomla-Vagrant](https://github.com/joomlatools/joomla-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
 * [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
