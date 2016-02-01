@@ -8,7 +8,6 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
 * [GitHub repo](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
-* [Vagrant Cloud](https://atlas.hashicorp.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 * [Otto Project](https://www.ottoproject.io/) - "The Successor to Vagrant". Detects your application type and builds a development environment tailored specifically for that application, with zero or minimal configuration.
 
 
@@ -17,7 +16,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *Where to find OS boxes ?*
 
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
-* [Vagrant Cloud](https://atlas.hashicorp.com/boxes/search) - see [above](#official-resources).
+* [Vagrant Cloud](https://atlas.hashicorp.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
 * [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
@@ -92,7 +91,7 @@ for any IP address.
 * [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
 * [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 * [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
-* [Laravel Homestead](https://laravel.com/docs/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 14.04 LTS, PHP 5.6, Nginx, and multiple database platforms.
+* [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 14.04 LTS, PHP 5.6, Nginx, and multiple database platforms.
 * [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
 
 
