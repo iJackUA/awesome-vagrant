@@ -2,15 +2,14 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
 
 A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 
 ## Official resources
 
-* [Vagrant site](http://www.vagrantup.com/) - installation instruction, official manuals and docs.
+* [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
 * [GitHub repo](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
 * [Vagrant Cloud](https://vagrantcloud.com/) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
-* [Otto Project](https://ottoproject.io/) - "The Successor to Vagrant". Detects your application type and builds a development environment tailored specifically for that application, with zero or minimal configuration.
+* [Otto Project](https://www.ottoproject.io/) - "The Successor to Vagrant". Detects your application type and builds a development environment tailored specifically for that application, with zero or minimal configuration.
 
 
 ## Boxes
@@ -20,7 +19,7 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
 * [Vagrant Cloud](https://vagrantcloud.com/discover/featured) - see [above](#official-resources).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
-* [Baseboxes from Opscode](https://github.com/opscode/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
+* [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
 * [Windows Box](http://vagrantbox.msopentech.com/) - evaluation version of Windows, packaged as a Vagrant Box for Hyper-V.
 
@@ -88,14 +87,14 @@ for any IP address.
 
 ## Popular readymade environments
 
-* [Vagrantpress](http://vagrantpress.org/) - development environment for creating and modifying WordPress sites.
+* [Vagrantpress](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites.
 * [Joomla-Vagrant](https://github.com/joomlatools/joomla-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
 * [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
 * [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 * [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
-* [Laravel Homestead](http://laravel.com/docs/homestead) - Official Vagrant Box for Laravel development, based on [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/), PHP 5.6, Nginx, and multiple database platforms.
-* [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/).
+* [Laravel Homestead](http://laravel.com/docs/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 14.04 LTS, PHP 5.6, Nginx, and multiple database platforms.
+* [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
 
 
 ## License
