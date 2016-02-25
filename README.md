@@ -86,6 +86,7 @@ for any IP address.
 ## Popular readymade environments
 
 * [Vagrantpress](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites.
+* [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development.
 * [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
 * [Drupal VM](http://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
