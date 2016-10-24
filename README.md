@@ -80,7 +80,7 @@ for any IP address.
 
 ## Books
 
-* [Vagrant: Up and Running](https://www.amazon.com/gp/product/1449335837) by Mitchell Hashimoto.
+* [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Up-Running-Mitchell-Hashimoto/dp/1449335837) by Mitchell Hashimoto.
 * [Vagrant CookBook](https://leanpub.com/vagrantcookbook) by Erika Heidi.
 
 ## Popular readymade environments
