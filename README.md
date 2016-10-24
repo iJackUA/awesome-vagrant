@@ -65,7 +65,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *To proxy your local web server and make it publicly available over the internet.*
 
 * [Vagrant share](https://www.vagrantup.com/docs/share/) - allows you to share your Vagrant environment with anyone in the world.
-* [xip.io](http://xip.io) - a magic domain name that provides wildcard DNS
+* [nip.io](http://nip.io) - a magic domain name that provides wildcard DNS
 for any IP address.
 * [ngrok](https://ngrok.com/) - tool to create secure tunnels to expose a local server behind a NAT or firewall to the internet.
 * [proxylocal.com](http://proxylocal.com) - proxy your local web-server and make it publicly available over the internet.
