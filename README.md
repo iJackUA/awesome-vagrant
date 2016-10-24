@@ -65,11 +65,11 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *To proxy your local web server and make it publicly available over the internet.*
 
 * [Vagrant share](https://www.vagrantup.com/docs/share/) - allows you to share your Vagrant environment with anyone in the world.
-* [xip.io](http://xip.io) - a magic domain name that provides wildcard DNS
+* [nip.io](http://nip.io) - a magic domain name that provides wildcard DNS
 for any IP address.
 * [ngrok](https://ngrok.com/) - tool to create secure tunnels to expose a local server behind a NAT or firewall to the internet.
 * [proxylocal.com](http://proxylocal.com) - proxy your local web-server and make it publicly available over the internet.
-* [localtunnel.me](http://localtunnel.me) - assign you a unique publicly accessible url that will proxy all requests to your locally running webserver.
+* [localtunnel.me](https://localtunnel.github.io/www/) - assign you a unique publicly accessible url that will proxy all requests to your locally running webserver.
 
 ## Tutorials
 
@@ -80,7 +80,7 @@ for any IP address.
 
 ## Books
 
-* [Vagrant: Up and Running](http://www.amazon.com/gp/product/1449335837) by Mitchell Hashimoto.
+* [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Up-Running-Mitchell-Hashimoto/dp/1449335837) by Mitchell Hashimoto.
 * [Vagrant CookBook](https://leanpub.com/vagrantcookbook) by Erika Heidi.
 
 ## Popular readymade environments
@@ -89,16 +89,16 @@ for any IP address.
 * [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development.
 * [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
-* [Drupal VM](http://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
+* [Drupal VM](https://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
 * [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
 * [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 * [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
-* [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 14.04 LTS, PHP 5.6, Nginx, and multiple database platforms.
+* [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 16.04 LTS, PHP 7, Nginx, and multiple database platforms.
 * [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
 
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Ievgen Kuzminov](http://stdout.in/) has waived all copyright and related or neighboring rights to this work.
