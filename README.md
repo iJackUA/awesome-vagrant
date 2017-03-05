@@ -8,7 +8,6 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
 * [GitHub repo](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
-* [Otto Project](https://www.ottoproject.io/) - "The Successor to Vagrant". Detects your application type and builds a development environment tailored specifically for that application, with zero or minimal configuration.
 
 
 ## Boxes
