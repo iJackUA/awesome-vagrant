@@ -7,7 +7,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
+* [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration.
 
 
 ## Boxes
@@ -15,7 +15,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *Where to find OS boxes ?*
 
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
-* [Vagrant Cloud](https://atlas.hashicorp.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
+* [Vagrant Cloud](https://app.vagrantup.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
 * [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
@@ -31,7 +31,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 *You can install these modules by this command `vagrant plugin install MODULE-NAME`*
 
-* [List of available Vagrant plugins from GitHub wiki](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins).
+* [List of available Vagrant plugins from GitHub wiki](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins).
 * [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version).
 * [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
 * [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
@@ -80,7 +80,7 @@ for any IP address.
 
 ## Books
 
-* [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Up-Running-Mitchell-Hashimoto/dp/1449335837) by Mitchell Hashimoto.
+* [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837) by Mitchell Hashimoto.
 * [Vagrant CookBook](https://leanpub.com/vagrantcookbook) by Erika Heidi.
 
 ## Popular readymade environments
