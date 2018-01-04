@@ -40,6 +40,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
 * [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
 * [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle).
+* [vagrant-scp](https://github.com/invernizzi/vagrant-scp) - Copy files to a Vagrant VM via SCP.
 
 ## Helpers / Tools
 
