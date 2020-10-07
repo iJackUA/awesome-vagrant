@@ -23,7 +23,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 ## Provisioning
 
-* [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning/index.html) - official doc.
+* [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning) - official doc.
 * [Vaprobash](http://fideloper.github.io/Vaprobash/index.html) - Vagrant Provisioning Bash Scripts.
 
 
