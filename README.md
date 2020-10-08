@@ -61,7 +61,6 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [Phansible](http://phansible.com/) - provides an easy to use interface that helps you generate Ansible Playbooks for PHP based projects.
 * [PuPHPet](https://puphpet.com/) - a simple GUI to set up virtual machines for <s>PHP</s> Web development.
 * [Protobox](http://getprotobox.com/) - PuPHPet analog, but uses own installer with YAML configuration format to control everything that is installed on the virtual machine.
-* [Rove](http://rove.io/) - a service that allows you to pregenerate typical Vagrant builds.
 
 ## Proxy services
 
